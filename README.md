@@ -68,6 +68,12 @@ This project provides experience working with real-world data, helping to gain h
       * Since both sales channels contribute significantly, develop strategies to provide a seamless customer experience across Online and In-Store.
   4. **Leverage Seasonality Trends**
       * Analyze peak sales months further to identify drivers (holidays, campaigns) and plan future promotions accordingly.
+    
+   ## Screenshots
+
+   ![Screenshot](/Ciruthika_Nithusyanthan_Visualisation01.png)
+
+   
               
   
      
