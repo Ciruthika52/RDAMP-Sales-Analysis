@@ -73,6 +73,10 @@ This project provides experience working with real-world data, helping to gain h
 
    ![Screenshot](/Ciruthika_Nithusyanthan_Visualisation01.png)
 
+    ![Screenshot](/Ciruthika_Nithusyanthan_Visualisation02.png)
+
+     ![Screenshot](/Ciruthika_Nithusyanthan_Datarelationship.png)
+
    
               
   
